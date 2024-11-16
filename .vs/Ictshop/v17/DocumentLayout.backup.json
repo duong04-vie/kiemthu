@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|c:\\users\\dell\\downloads\\website ban hang asp.net mvc\\ictshop\\ictshop\\areas\\admin\\controllers\\nguoidungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\controllers\\nguoidungscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|c:\\users\\dell\\downloads\\website ban hang asp.net mvc\\ictshop\\ictshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|c:\\users\\dell\\downloads\\website ban hang asp.net mvc\\ictshop\\ictshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Areas\\Admin\\Controllers\\HangsanxuatsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:Ictshop\\Areas\\Admin\\Controllers\\HangsanxuatsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Models\\Qlbanhang.Context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:Ictshop\\Models\\Qlbanhang.Context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:Ictshop\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:29:29.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguoidungsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Areas\\Admin\\Controllers\\NguoidungsController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Controllers\\NguoidungsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Areas\\Admin\\Controllers\\NguoidungsController.cs",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Controllers\\NguoidungsController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:24:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HangsanxuatsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Areas\\Admin\\Controllers\\HangsanxuatsController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Controllers\\HangsanxuatsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Areas\\Admin\\Controllers\\HangsanxuatsController.cs",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Controllers\\HangsanxuatsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:20:01.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Qlbanhang.Context.tt",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Models\\Qlbanhang.Context.tt",
+              "RelativeDocumentMoniker": "Ictshop\\Models\\Qlbanhang.Context.tt",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Models\\Qlbanhang.Context.tt",
+              "RelativeToolTip": "Ictshop\\Models\\Qlbanhang.Context.tt",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T09:18:08.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:18:19.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhmucPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:14:34.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Web.config",
+              "RelativeDocumentMoniker": "Ictshop\\Web.config",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\website ban hang asp.net mvc\\Ictshop\\Ictshop\\Web.config",
+              "RelativeToolTip": "Ictshop\\Web.config",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-13T05:11:52.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

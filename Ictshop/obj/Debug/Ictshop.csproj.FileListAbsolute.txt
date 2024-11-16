@@ -1,0 +1,343 @@
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.dll.config
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.pdb
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.exe
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.rsp
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csi.exe
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csi.rsp
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Razor.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\WebGrease.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Razor.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csprojAssemblyReference.cache
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.dll.config
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.pdb
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.exe
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.rsp
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csi.exe
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csi.rsp
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Razor.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\WebGrease.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Razor.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csprojAssemblyReference.cache
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+D:\CODEWEB\Ictshop\Ictshop\bin\Ictshop.dll.config
+D:\CODEWEB\Ictshop\Ictshop\bin\Ictshop.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\Ictshop.pdb
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csc.exe
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csc.rsp
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csi.exe
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csi.rsp
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\CODEWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\EntityFramework.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Razor.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\WebGrease.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\EntityFramework.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Razor.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+D:\CODEWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODEWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+D:\CODEWEB\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+D:\CODEWEB\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+D:\CODEWEB\Ictshop\Ictshop\bin\PagedList.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\PagedList.Mvc.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\PagedList.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\PagedList.Mvc.xml
+D:\CODEWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csprojAssemblyReference.cache
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Ictshop.dll.config
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Ictshop.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Ictshop.pdb
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csc.exe
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csc.rsp
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csi.exe
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csi.rsp
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\vbc.exe
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\EntityFramework.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\PagedList.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\PagedList.Mvc.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Razor.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\WebGrease.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\EntityFramework.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\PagedList.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\PagedList.Mvc.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Razor.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.Up2Date
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+H:\dowload_cococ\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Ictshop.dll.config
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Ictshop.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Ictshop.pdb
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\PagedList.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\PagedList.Mvc.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\WebGrease.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\PagedList.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\PagedList.Mvc.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.Up2Date
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\selenium-manager\linux\selenium-manager
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\selenium-manager\macos\selenium-manager
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\selenium-manager\windows\selenium-manager.exe
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\NUnit3.TestAdapter.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\NUnit3.TestAdapter.pdb
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\nunit.engine.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\nunit.engine.api.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\nunit.engine.core.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\testcentric.engine.metadata.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\nunit.framework.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\nunit.framework.legacy.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Buffers.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Memory.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Text.Json.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.ValueTuple.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Unit.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\WebDriver.dll
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\nunit.framework.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\nunit.framework.legacy.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Buffers.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Memory.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Text.Encodings.Web.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Text.Json.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\System.ValueTuple.xml
+C:\Users\DELL\Downloads\website ban hang asp.net mvc\Ictshop\Ictshop\bin\WebDriver.xml
